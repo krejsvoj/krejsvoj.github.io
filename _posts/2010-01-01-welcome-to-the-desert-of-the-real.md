@@ -6,7 +6,7 @@ subtitle: 'Test'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dtgcqg8im/image/upload/v1721159651/hacker_sw20zk.jpg
+image: https://res.cloudinary.com/dtgcqg8im/image/upload/v1721161305/hacker_2_c6ho6y.jpg
 #optimized_image: https://github.com/krejsvoj/krejsvoj.github.io/blob/master/src/img/hacker2.jpg
 category: blog
 tags:
