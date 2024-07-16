@@ -2,20 +2,17 @@
 date: 2019-05-16 23:48:05
 layout: post
 title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'Test'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+image: https://res.cloudinary.com/dtgcqg8im/image/upload/v1721159651/hacker_sw20zk.jpg
+#optimized_image: https://github.com/krejsvoj/krejsvoj.github.io/blob/master/src/img/hacker2.jpg
 category: blog
 tags:
   - welcome
   - blog
-author: mranderson
-paginate: true
+author: kr3j5v0j
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
