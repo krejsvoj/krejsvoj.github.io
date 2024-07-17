@@ -4,13 +4,14 @@ layout: post
 title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+image: https://res.cloudinary.com/dtgcqg8im/image/upload/v1721159651/hacker_sw20zk.jpg
+optimized_image: 
+category: CTF write-up
 tags:
   - books
   - read
-author: mranderson
+  - reverse engeneering
+author: mranderso1n
 paginate: true
 ---
 

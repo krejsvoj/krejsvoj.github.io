@@ -6,13 +6,13 @@ subtitle: 'Test'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dtgcqg8im/image/upload/v1721161305/hacker_2_c6ho6y.jpg
+image: https://res.cloudinary.com/dtgcqg8im/image/upload/v1721159651/hacker_sw20zk.jpg
 #optimized_image: https://github.com/krejsvoj/krejsvoj.github.io/blob/master/src/img/hacker2.jpg
 category: blog
 tags:
   - welcome
   - blog
-author: kr3j5v0j
+author: krejsvoj
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
