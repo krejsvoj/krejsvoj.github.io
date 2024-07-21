@@ -11,7 +11,7 @@ tags:
   - books
   - read
   - reverse engeneering
-author: mranderso1n
+author: krejsvoj
 paginate: true
 ---
 
