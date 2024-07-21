@@ -4,7 +4,7 @@ layout: post
 title: Why books should be your priority?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dtgcqg8im/image/upload/v1721159651/hacker_sw20zk.jpg
+image: https://res.cloudinary.com/dtgcqg8im/image/upload/v1721161305/hacker_2_c6ho6y.jpg
 optimized_image: 
 category: CTF write-up
 tags:
