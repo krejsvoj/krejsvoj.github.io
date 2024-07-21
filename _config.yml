@@ -11,6 +11,10 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: CTF write-ups
+    url: /category/CTF write-up/
+  - title: Blog
+    url: /category/blog/
   - title: About
     url: /about
   - title: Contact
