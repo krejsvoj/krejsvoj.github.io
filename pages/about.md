@@ -11,5 +11,7 @@ permalink: /about/
 
 # About
 
-Hi, my name is Vojtěch Krejsa and I am in my final year of the master's program in Computer Security at the faculty of Information technology at CTU.
+My name is **Vojtěch Krejsa** and I am in my final year of the master's program in Computer Security at the faculty of Information technology at CTU.
+
+
 I am interested in reverse engeneering, malware analysis, binary exploitation, and computer security in general.
